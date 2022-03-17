@@ -865,6 +865,20 @@ module SME(clk,
     assign match_valid_next_state = Done_flag ? VALID : UNVALID;
 
     always @(posedge clk)
+
+
+    begin
+
+    end
+
+    //no no no
+    always @(negedge clk)
+    begin
+
+    end
+
+    always @(negedge clk)
+
     begin
 
     end
