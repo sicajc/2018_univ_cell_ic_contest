@@ -856,7 +856,7 @@ module SME(clk,
             end
             default:
             begin
-                match = 0;
+                match = 1;
                 valid = 0;
             end
         endcase
