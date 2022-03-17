@@ -856,12 +856,17 @@ module SME(clk,
             end
             default:
             begin
-                match = 0;
+                match = 1;
                 valid = 0;
             end
         endcase
     end
 
     assign match_valid_next_state = Done_flag ? VALID : UNVALID;
+
+    always @(posedge clk )
+    begin
+
+    end
 
 endmodule
