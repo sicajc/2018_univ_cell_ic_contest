@@ -870,5 +870,14 @@ module SME(clk,
     end
 
     //no no no
+    always @(negedge clk)
+    begin
+
+    end
+
+    always @(negedge clk)
+    begin
+
+    end
 
 endmodule
