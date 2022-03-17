@@ -1,0 +1,110 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_modelsim
+vSME
+Z0 !s110 1647172601
+!i10b 1
+!s100 fa1JaLBL[LU0fz?K=zh^<1
+IYT^Hfcaj^3;<Jz8Z57G`<0
+Z1 dC:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2
+w1647172237
+8C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/SME_V2.v
+FC:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/SME_V2.v
+!i122 0
+L0 1 934
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1647172601.000000
+!s107 C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/SME_V2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/SME_V2.v|
+!i113 1
+o-work work
+Z5 tCvgOpt 0
+n@s@m@e
+Xtb_sv_unit
+Z6 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R0
+ViWcz4`0OPAK[B[H1`jC5@2
+r1
+!s85 0
+!i10b 1
+!s100 M:UkWE^9;DRaYbo^jTQ;W3
+IiWcz4`0OPAK[B[H1`jC5@2
+!i103 1
+S1
+R1
+w1646566516
+8C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb.sv
+FC:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb.sv
+!i122 1
+L0 218 0
+R3
+31
+R4
+!s107 C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb.sv|
+!i113 1
+Z7 o-work work -sv
+R5
+Xtb_term_sv_unit
+R6
+R0
+VkKN6TJF]PLG`=JJ6[66J;2
+r1
+!s85 0
+!i10b 1
+!s100 zIQ:XWXY@@`D6H?L;;N4o3
+IkKN6TJF]PLG`=JJ6[66J;2
+!i103 1
+S1
+R1
+Z8 w1646473477
+Z9 8C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb_term.sv
+Z10 FC:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb_term.sv
+!i122 2
+L0 210 0
+R3
+31
+R4
+!s107 C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb_term.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb_term.sv|
+!i113 1
+R7
+R5
+vtestfixture
+!s105 tb_term_sv_unit
+DXx4 work 15 tb_term_sv_unit 0 22 kKN6TJF]PLG`=JJ6[66J;2
+R6
+R0
+!i10b 1
+!s100 gdXRmci1E0ol:O?=`B2<H0
+I@d>ZI`QILecY0;kb@Sb@J2
+S1
+R1
+R8
+R9
+R10
+!i122 2
+L0 6 203
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z12 !s107 C:/Users/HIBIKI/Desktop/IC_contest/2018_S_M_E/SME_V2/tb_term.sv|
+R11
+!i113 1
+R7
+R5
